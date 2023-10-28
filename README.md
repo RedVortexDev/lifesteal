@@ -7,7 +7,7 @@ Also, because I hate myself I will point out the flaws:
 <br/>
 
 1. Resource Pack isn't a part of the plugin (owners would need to make their own pack :/)
-2. Revive Beacon doesn't have a styled name (this is because I use the item name and not an item tag)
+2. Revive Beacon items don't have a styled name (this is because I use the item name and not an item tag)
 3. § codes are used instead of Components (I was just lazy)
 4. /ban commands are used instead of using the BanList (couldn't get it to work)
    
