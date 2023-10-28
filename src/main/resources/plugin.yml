@@ -1,0 +1,16 @@
+name: LifeSteal
+version: '${project.version}'
+main: redvortex.lifesteal.LifeSteal
+api-version: '1.20'
+authors: [RedVortex_]
+description: lifesteal idk
+website: https://github.com/RedVortexDev
+commands:
+  withdraw:
+      description: withdraws hearts
+      usage: /withdraw <amount>
+      aliases: [with]
+  kms:
+        description: kill yourself
+        usage: /kms
+        aliases: [ killmyself, suicide ]
