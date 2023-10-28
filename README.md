@@ -13,4 +13,5 @@ Also, because I hate myself I will point out the flaws:
    
 
 Basically, please **don't** use this plugin unless you want a plugin that has NOTHING else other than the core lifesteal gameplay.
+<br/>
 By the way did I mention there's also a /kms command?
